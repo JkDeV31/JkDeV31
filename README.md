@@ -1,12 +1,10 @@
-# 👋 Olá, eu sou Cleverson Lemes | JkDeV
+# 👋 Cleverson Lemes | JkDeV
 
-### Desenvolvedor Web | HTML, CSS e JavaScript
+### Desenvolvedor web | Landing pages e interfaces responsivas
 
-Sou Cleverson Lemes, também conhecido como **JkDeV**, desenvolvedor web em evolução profissional e construindo minha trajetória como freelancer.
+Estou construindo minha trajetória como freelancer e desenvolvendo projetos práticos com **HTML, CSS e JavaScript**. Aqui compartilho demonstrações, estudos e minha evolução no desenvolvimento web.
 
-Tenho desenvolvido projetos educacionais e práticos para aprimorar minhas habilidades na criação de páginas web, interfaces responsivas e experiências de navegação.
-
-Aqui no GitHub, compartilho meus projetos, estudos e minha evolução no desenvolvimento web.
+**Conheça os projetos abaixo ou [entre em contato por e-mail](mailto:junindeveloper31@gmail.com).**
 
 ## 🚀 Projetos em destaque
 
