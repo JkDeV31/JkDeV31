@@ -1,74 +1,76 @@
-# 👋 Cleverson Lemes | JkDeV
+# Cleverson Lemes | JkDeV
 
-### Desenvolvedor web | Landing pages e interfaces responsivas
+### Desenvolvedor web | Sites, landing pages e interfaces responsivas
 
-Estou construindo minha trajetória como freelancer e desenvolvendo projetos práticos com **HTML, CSS e JavaScript**. Aqui compartilho demonstrações, estudos e minha evolução no desenvolvimento web.
+Desenvolvo páginas e interfaces web utilizando **HTML, CSS e JavaScript**, com foco em pequenos negócios e profissionais autônomos.
 
-**Conheça os projetos abaixo ou [entre em contato por e-mail](mailto:junindeveloper31@gmail.com).**
+Estou consolidando minha atuação como freelancer, aprimorando minhas competências e construindo um portfólio que representa minha evolução no desenvolvimento web.
 
-## 🚀 Projetos em destaque
+**[Conheça meus projetos](#projetos-em-destaque) | [Entre em contato](mailto:junindeveloper31@gmail.com)**
 
-### 💈 Landing Page Barber
+## Como posso ajudar
 
-Landing page educacional desenvolvida para representar o site de uma barbearia.
+**Landing pages e sites institucionais**
 
-O projeto inclui apresentação do estabelecimento, seção de serviços, layout adaptável a diferentes tamanhos de tela e elementos de interação visual.
+Desenvolvimento de páginas para apresentar negócios, profissionais, serviços e informações de contato de maneira organizada.
 
-**Tecnologias:** HTML5, CSS3, SCSS e biblioteca AOS.
+**Interfaces responsivas**
 
-[Ver código-fonte](https://github.com/JkDeV31/landing-page-barber) | [Ver demonstração](https://jkdev31.github.io/landing-page-barber/)
+Construção de interfaces adaptáveis a diferentes tamanhos de tela, com atenção à navegação e à experiência de uso.
 
-### 🏛️ Landing Page Arquitetura
+**Ajustes e melhorias em páginas existentes**
 
-Projeto educacional de uma página de divulgação de evento relacionado a design de interiores.
+Correções e aprimoramentos de layout, conteúdo e interatividade, conforme avaliação das necessidades e da estrutura técnica de cada projeto.
 
-A interface apresenta informações sobre o evento, benefícios, localização e um formulário demonstrativo de inscrição.
+## Projetos em destaque
+
+### Landing Page Barber
+
+Projeto educacional de uma landing page para uma barbearia fictícia, com apresentação de serviços, layout responsivo e animações visuais.
+
+**Tecnologias:** HTML5, CSS3, SCSS, JavaScript e AOS.
+
+[Ver demonstração](https://jkdev31.github.io/landing-page-barber/) | [Ver código](https://github.com/JkDeV31/landing-page-barber)
+
+### Landing Page Arquitetura
+
+Projeto demonstrativo de divulgação de um evento fictício de design de interiores, com seções informativas, layout responsivo e formulário ilustrativo sem envio de dados.
 
 **Tecnologias:** HTML5 e CSS3.
 
-[Ver código-fonte](https://github.com/JkDeV31/landing-page-arquitetura) | [Ver demonstração](https://jkdev31.github.io/landing-page-arquitetura/)
+[Ver demonstração](https://jkdev31.github.io/landing-page-arquitetura/) | [Ver código](https://github.com/JkDeV31/landing-page-arquitetura)
 
-### 🧮 Calculadora JavaScript
+### Calculadora JavaScript
 
-Projeto educacional desenvolvido para praticar lógica de programação, manipulação do DOM e interação com elementos da interface.
+Projeto educacional para praticar lógica de programação, manipulação do DOM e interatividade, com operações matemáticas, tratamento de erros e layout responsivo.
 
 **Tecnologias:** HTML5, CSS3 e JavaScript.
 
-[Ver código-fonte](https://github.com/JkDeV31/calculadora) | [Ver demonstração](https://jkdev31.github.io/calculadora/)
+[Ver demonstração](https://jkdev31.github.io/calculadora/) | [Ver código](https://github.com/JkDeV31/calculadora)
 
-## 🛠️ Tecnologias que venho praticando
+## Tecnologias que utilizo e pratico
 
-- **HTML5** — estruturação de páginas web.
-- **CSS3** — estilização e layouts responsivos.
-- **JavaScript** — lógica, eventos e interatividade.
-- **SCSS** — organização e manutenção de estilos.
+- **HTML5:** estruturação de páginas.
+- **CSS3:** estilização e layouts responsivos.
+- **JavaScript:** lógica, interatividade e manipulação do DOM.
+- **SCSS:** organização e manutenção de estilos.
 
-## 🎯 Meu foco profissional
+## Sobre meu trabalho
 
-Estou aprimorando minhas competências em desenvolvimento web, com interesse especial na criação de landing pages e interfaces para apresentação de negócios e serviços.
+Tenho interesse em desenvolver soluções web que ajudem profissionais e negócios a apresentar seus serviços de maneira clara e acessível.
 
-Meu objetivo é desenvolver soluções bem estruturadas, acessíveis e visualmente consistentes, enquanto construo minha atuação profissional como freelancer.
+Meu foco atual está na construção de páginas e interfaces web, enquanto continuo desenvolvendo minhas competências e ampliando minha experiência prática.
 
-## 📚 Aprendizado contínuo
+Os projetos públicos apresentados acima são educacionais ou demonstrativos. Trabalhos profissionais serão adicionados quando estiverem concluídos e houver autorização para divulgação.
 
-Além dos projetos em destaque, mantenho repositórios de estudos e exercícios que fazem parte da minha formação prática.
+## Contato
 
-Os projetos apresentados neste perfil são educacionais ou demonstrativos e não devem ser interpretados como trabalhos comerciais realizados para clientes.
+Tem um projeto em mente ou gostaria de conversar sobre desenvolvimento web?
 
-## 📬 Entre em contato
-
-Tem uma ideia de projeto, quer conversar sobre desenvolvimento web ou conhecer melhor meu trabalho?
-
-Será um prazer conversar!
-
-📧 **E-mail:** [junindeveloper31@gmail.com](mailto:junindeveloper31@gmail.com)
-
-💬 **WhatsApp:** [Iniciar conversa](https://wa.me/5531984154349)
-
-💼 **LinkedIn:** [Cleverson Lemes](https://www.linkedin.com/in/cleverson-lemes-390a27235/)
+- **E-mail:** [junindeveloper31@gmail.com](mailto:junindeveloper31@gmail.com)
+- **WhatsApp:** [Iniciar conversa](https://wa.me/5531984154349)
+- **LinkedIn:** [Cleverson Lemes](https://www.linkedin.com/in/cleverson-lemes-390a27235/)
 
 ---
 
-**Cleverson Lemes | JkDeV**
-
-*Desenvolvimento web, aprendizado contínuo e evolução profissional.*
+**JkDeV — Desenvolvimento web e evolução profissional contínua.**
