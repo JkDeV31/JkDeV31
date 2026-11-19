@@ -4,9 +4,13 @@
 
 Desenvolvo páginas e interfaces web utilizando **HTML, CSS e JavaScript**, com foco em pequenos negócios e profissionais autônomos.
 
-Estou consolidando minha atuação como freelancer, aprimorando minhas competências e construindo um portfólio que representa minha evolução no desenvolvimento web.
+Estou consolidando minha atuação como freelancer, aprimorando minhas competências e desenvolvendo projetos que representam minha evolução profissional.
 
-**[Conheça meus projetos](#projetos-em-destaque) | [Entre em contato](mailto:junindeveloper31@gmail.com)**
+Meu **portfólio profissional já está publicado**, reunindo meus serviços, projetos educacionais e formas de contato.
+
+**[Conheça meu portfólio profissional](https://jkdev31.github.io/)**
+
+[Ver projetos no GitHub](#projetos-em-destaque) | [Entrar em contato por e-mail](mailto:junindeveloper31@gmail.com)
 
 ## Como posso ajudar
 
@@ -67,9 +71,11 @@ Os projetos públicos apresentados acima são educacionais ou demonstrativos. Tr
 
 Tem um projeto em mente ou gostaria de conversar sobre desenvolvimento web?
 
+- **Portfólio:** [jkdev31.github.io](https://jkdev31.github.io/)
 - **E-mail:** [junindeveloper31@gmail.com](mailto:junindeveloper31@gmail.com)
-- **WhatsApp:** [Iniciar conversa](https://wa.me/5531984154349)
 - **LinkedIn:** [Cleverson Lemes](https://www.linkedin.com/in/cleverson-lemes-390a27235/)
+
+**Atendimento remoto. O primeiro contato pode ser realizado por e-mail.**
 
 ---
 
