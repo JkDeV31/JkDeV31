@@ -1,14 +1,10 @@
 # Cleverson Lemes | JkDeV
 
-### Desenvolvedor web | Sites, landing pages e interfaces responsivas
+### Desenvolvedor Web Freelancer
 
-Desenvolvo páginas e interfaces web utilizando **HTML, CSS e JavaScript**, com foco em pequenos negócios e profissionais autônomos.
+Desenvolvo sites e landing pages para pequenos negócios e profissionais autônomos. Tenho projetos publicados com **HTML, CSS e JavaScript**, incluindo páginas responsivas.
 
-Estou consolidando minha atuação como freelancer, aprimorando minhas competências e desenvolvendo projetos que representam minha evolução profissional.
-
-Meu **portfólio profissional já está publicado**, reunindo meus serviços, projetos educacionais e formas de contato.
-
-**[Conheça meu portfólio profissional](https://jkdev31.github.io/)**
+**[Conheça meu portfólio](https://jkdev31.github.io/)**
 
 [Ver projetos no GitHub](#projetos-em-destaque) | [Entrar em contato por e-mail](mailto:junindeveloper31@gmail.com)
 
